@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <description>Contents of scheduler csh</description>
+        <type>CSH</type>
+        <csh_table>_MOD_tools_txschedulerM1</csh_table>
+        <fileId>EXT:we_cleanuptemppics/tasks/locallang_csh.xml</fileId>
+        <labelContext type="array"></labelContext>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="task_age.alttitle">Minimum age</label>
+            <label index="task_age.description">Age of files/pics to delete (min. 2, max. 365).</label>
+            <label index="task_age.details">Age of files/pics to delete.</label>
+        </languageKey>
+    </data>
+</T3locallang>
